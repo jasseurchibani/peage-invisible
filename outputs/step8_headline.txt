@@ -1,0 +1,1 @@
+PRIMARY (Callaway-Sant'Anna): -2.0 passages/day (-0.1%), 95% CI [-79.5, +73.5] / [-3.5%, +3.3%]. Naive TWFE: -2.5 passages/day (-0.1%), 95% CI [-116.8, +117.8] / [-5.2%, +5.2%]. CS pre-trends flat: True. TWFE-vs-CS agree: True.

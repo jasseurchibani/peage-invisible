@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Big regenerated downloads — rebuilt from the API, never committed (bike.json is ~1.7 GB)
+data/raw/*
+data/processed/*
+!**/.gitkeep
+# NOTE: figures/ and outputs/ ARE committed — they are the deliverables (charts + report + result tables)
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
